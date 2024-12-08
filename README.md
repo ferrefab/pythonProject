@@ -14,7 +14,7 @@ Das komplette Projekt findest du auf GitHub:
 ## Rückfragen
 
 Für Rückfragen oder Feedback stehen wir gerne zur Verfügung.  
-Kontakt: [Fabio Ferreira Freitas (ferrefab@students.zhaw.ch)] [Juan Camilo Galeano Santana (galeajua@students.zhaw.ch)
+Kontakt: [Fabio Ferreira Freitas (ferrefab@students.zhaw.ch)] [Juan Camilo Galeano Santana (galeajua@students.zhaw.ch)]
 
 ---
 
