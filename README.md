@@ -9,7 +9,7 @@ Alle Notebooks wurden in Google Colab entwickelt. Sie können direkt in Colab ge
 ## Repository-Link
 
 Das komplette Projekt findest du auf GitHub:  
-[**GitHub Repository Link**](https://github.com/ferrefab/pythonProject)
+[**GitHub Repository Link**](https://github.com/ferrefab/pythonProject.git)
 
 ## Rückfragen
 
